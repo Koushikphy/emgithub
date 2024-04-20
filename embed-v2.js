@@ -286,6 +286,11 @@
       padding: 15px;
     }
   }
+
+
+  table{
+    border-collapse:separate
+  }
 </style>
 
 
