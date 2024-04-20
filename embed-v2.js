@@ -101,7 +101,7 @@
 
   .emgithub-file .file-meta {
     padding: 10px;
-    font-size: 1em;
+    font-size: 13px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   }
 
