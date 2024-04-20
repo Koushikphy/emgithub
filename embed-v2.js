@@ -289,7 +289,8 @@
 
 
   table{
-    border-collapse:separate
+    border-collapse:separate;
+    border-spacing: 2.5px;
   }
 </style>
 
